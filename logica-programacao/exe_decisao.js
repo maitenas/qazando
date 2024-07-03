@@ -6,7 +6,7 @@
 // Printar o nome da cidade
 // Caso esteja avisar
 // Caso não seja o elemento procurado avisar
-// Número da execução
+// Número da execução..
 
 
 const cidades = ['São Paulo', 'Rio de janeiro', 'Florianópolis', 'Recife']
